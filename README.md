@@ -20,7 +20,7 @@
 ## 作品リスト
 
 ### ブロック崩し
-[<img src="blockbreaker.png" alt="Wall Walker" style="height: 200px">](https://unityroom.com/games/blockbreakerr)
+[<img src="blockbreaker.png" alt="Wall Walker" style="height: 166px">](https://unityroom.com/games/blockbreakerr)
 
 [ブロック崩し](https://unityroom.com/games/blockbreakerr)
 
