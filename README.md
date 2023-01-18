@@ -1,13 +1,11 @@
 # Portfolio
 
 - 杉田夏葵
-- 連絡先 Twitter [@am1tanaka](https://twitter.com/am1tanaka) / Email [a@a.a](mailto:a@a.a)
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2024年卒業予定
 
 ## スキル
 - C#
   - 利用歴1年
-  - Visual Studioで独自のツールの作成が可能
 - Unity
   - 利用歴1年
   - オリジナルの個人作品の開発経験あり
@@ -42,5 +40,3 @@
 - 1週間ゲームジャム「Re」参加作品
 
 ## 連絡先
-- Twitter [a](a)
-- E-mail [natsukisugita.dat@gmail.com](natsukisugita.dat@gmail.com)
