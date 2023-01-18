@@ -19,9 +19,8 @@
 ## 作品リスト
 
 ### ブロック崩し
-[<img src="blockbreaker.png" alt="Wall Walker" style="height: 200px">](https://am1tanaka.itch.io/wall-walker)
+<img src="blockbreaker.png" alt="Wall Walker" style="height: 200px">
 
-[ブロック崩し](URL)
 
 バーを操作してボールを跳ね返してブロックを全て消すゲーム。
 
