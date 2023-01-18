@@ -1,6 +1,7 @@
 # Portfolio
 
 - 杉田夏葵
+- 連絡先 Email/[natsukisugita.dat@gmail.com](natsukisugita.dat@gmail.com)
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2024年卒業予定
 
 ## スキル
@@ -19,8 +20,9 @@
 ## 作品リスト
 
 ### ブロック崩し
-<img src="blockbreaker.png" alt="Wall Walker" style="height: 200px">
+[<img src="blockbreaker.png" alt="Wall Walker" style="height: 200px">](https://unityroom.com/games/blockbreakerr)
 
+[ブロック崩し](https://unityroom.com/games/blockbreakerr)
 
 バーを操作してボールを跳ね返してブロックを全て消すゲーム。
 
@@ -39,3 +41,4 @@
 - 1週間ゲームジャム「Re」参加作品
 
 ## 連絡先
+- 連絡先 Email/[natsukisugita.dat@gmail.com](natsukisugita.dat@gmail.com)
