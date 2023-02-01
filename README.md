@@ -27,7 +27,7 @@
 バーを操作してボールを跳ね返してブロックを全て消すゲーム。
 
 - 開発環境：Unity
-- 開発期間：3週間
+- 開発期間：4週間
 
 ### リフレクションボール
 [<img src="reflectionball_icon.png" alt="リフレクションボール" style="height: 200px">](https://unityroom.com/games/reflectionball)
