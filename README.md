@@ -27,6 +27,7 @@
 
 - 開発環境：Unity
 - 開発期間：4ヶ月～5ヶ月
+- 担当箇所：プレイヤー操作と一部ギミックのプログラム
 
 ### ブロック崩し
 [<img src="blockbreaker.png" alt="Wall Walker" style="height: 166px">](https://unityroom.com/games/blockbreakerr)
