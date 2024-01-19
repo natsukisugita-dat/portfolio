@@ -26,7 +26,7 @@
 引っ張り操作でゴールを目指すゲーム
 
 - 開発環境：Unity
-- 開発期間：
+- 開発期間：4ヶ月～5ヶ月
 
 ### ブロック崩し
 [<img src="blockbreaker.png" alt="Wall Walker" style="height: 166px">](https://unityroom.com/games/blockbreakerr)
